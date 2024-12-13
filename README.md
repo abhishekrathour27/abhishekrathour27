@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour27" alt="abhishekrathour27" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishek07" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek07?logo=twitter&style=for-the-badge" alt="abhishek07" /></a> </p>
+<p align="left"> <a href="https://x.com/AbhiRathour27" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek07?logo=twitter&style=for-the-badge" alt="abhishek07" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
