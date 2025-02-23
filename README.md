@@ -10,6 +10,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour27" alt="abhishekrathour27" /></a> </p>
 
 <p align="left"> <a href="https://x.com/AbhiRathour27" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek07?logo=twitter&style=for-the-badge" alt="abhishek07" /></a> </p>
+<div align='center'>   
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%26+building+projects.;Feel+free+to+explore+my+work!)](https://git.io/typing-svg)
+
+</div>
 
 - 🌱 I’m currently learning **JavaScript**
 
