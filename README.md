@@ -15,6 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%26+building+projects.;Feel+free+to+explore+my+work!)](https://git.io/typing-svg)
 
 </div>
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 - 🌱 I’m currently learning **JavaScript**
 
