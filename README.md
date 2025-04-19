@@ -35,7 +35,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React-JS**
 - 💬 Ask me about **coding and freelancing**
 - 📫 How to reach me: **abhishekrathour96081@gmail.com**
 
