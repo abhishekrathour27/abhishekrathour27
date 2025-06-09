@@ -27,9 +27,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px" alt="Cool Gif" />
-</div>
 
 ---
 
