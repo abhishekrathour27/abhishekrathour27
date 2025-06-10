@@ -25,6 +25,8 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently learning **React.js**
@@ -35,7 +37,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://x.com/AbhiRathour27" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
@@ -51,7 +53,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -67,8 +69,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour27&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour27&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=dark" alt="GitHub Streak" />
 </p>
+
+</div>
