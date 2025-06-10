@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczIwc2VrbDJndHdmaW5rZWEzdDNoMm16NWgwcWlzb24xdm9jMnZwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" height="300" />
-</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekrathour27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
