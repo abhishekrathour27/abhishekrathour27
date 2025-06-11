@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
-<h3 align="center">Frontend Developer | Passionate about clean UI & UX</h3>
+<h3 align="center">🚀 Frontend Developer | 🇮🇳 India</h3>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  🔭 Currently learning <strong>React.js</strong> <br />
-  💡 Interested in building UI/UX focused web apps <br />
-  💬 Ask me about <strong>Frontend Development</strong> <br />
-  📫 Reach me at: <strong>abhishekrathour96081@gmail.com</strong>
+🔭 Currently learning <strong>React.js</strong><br/>
+💡 Interested in building UI/UX focused web apps<br/>
+💬 Ask me about <strong>Frontend Development</strong><br/>
+📫 Reach me at: <strong>abhishekrathour96081@gmail.com</strong>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://x.com/AbhiRathour27">
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -46,11 +46,13 @@
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour27&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour27&layout=compact&theme=radical" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=dark&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour27&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour27&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=dark&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+</p>
 
 ---
 
