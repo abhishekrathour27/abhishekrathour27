@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">🚀 Frontend Developer | 🇮🇳 India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekrathour27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+from+India.;I+love+coding+and+building+cool+stuff!" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
