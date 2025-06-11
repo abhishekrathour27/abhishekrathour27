@@ -1,48 +1,56 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
-<h3 align="center">🚀 Frontend Developer | 🇮🇳 India</h3>
+<h3 align="center">Frontend Developer | Passionate about clean UI & UX</h3>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently learning **React.js**
-- 💡 Interested in building UI/UX focused web apps
-- 💬 Ask me about **Frontend Development**
-- 📫 Reach me at: **abhishekrathour96081@gmail.com**
+<p align="center">
+  🔭 Currently learning <strong>React.js</strong> <br />
+  💡 Interested in building UI/UX focused web apps <br />
+  💬 Ask me about <strong>Frontend Development</strong> <br />
+  📫 Reach me at: <strong>abhishekrathour96081@gmail.com</strong>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/AbhiRathour27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-761273297)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abhishek_.rathour)
+<p align="center">
+  <a href="https://x.com/AbhiRathour27">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-singh-761273297">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abhishek_.rathour">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour27&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour27&layout=compact&theme=radical" alt="Top Languages" />
- <!-- Green streak theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour27&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour27&layout=compact&theme=radical" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=dark&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
-
-</p>
 
 ---
 
