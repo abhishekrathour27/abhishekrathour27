@@ -39,7 +39,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour27&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour27&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=dark" alt="GitHub Streak" />
+ <!-- Green streak theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=react&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
+
 </p>
 
 ---
