@@ -48,7 +48,7 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour27&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour27&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=dark&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
