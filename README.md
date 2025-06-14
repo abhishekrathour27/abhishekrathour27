@@ -54,6 +54,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour27&theme=dark&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
 </p>
 
+<h2 align="center">📆 Developer Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekrathour27&theme=react-dark&area=true&hide_border=true" width="100%"/>
+</div>
+
 ---
 
 <p align="center">
