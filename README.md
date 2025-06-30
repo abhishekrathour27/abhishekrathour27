@@ -6,7 +6,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-🔭 Currently learning <strong>React.js</strong><br/>
+🔭 Currently learning <strong>Next.js</strong><br/>
 💡 Interested in building UI/UX focused web apps<br/>
 💬 Ask me about <strong>Frontend Development</strong><br/>
 📫 Reach me at: <strong>abhishekrathour96081@gmail.com</strong>
