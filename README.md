@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
-<h3 align="center">Frontend Developer | Passionate about clean UI & UX</h3>
+<h3 align="center ">Frontend Developer | Passionate about clean UI & UX</h3>
 
 ---
 
